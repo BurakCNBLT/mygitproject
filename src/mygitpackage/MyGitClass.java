@@ -9,11 +9,9 @@ public class MyGitClass {
 		System.out.println("My 5th commit");//
 		System.out.println("uzak sunucudaki kodum");//GitHub.com'daki yeni kodum
 		System.out.println("yasin beyin kodu");//GitHub.com'daki yeni kodum
-		
 		System.out.println("12. satir BILGISAYARIM");
-
 		System.out.println("12. satir UZAK SUNUCU");//GitHub.com'daki yeni kodum
-		System.out.println("16. satir UZAK SUNUCU");//GitHub.com'daki yeni kodum
+		System.out.println("14. satir UZAK SUNUCU");//GitHub.com'daki yeni kodum
 	}
 
 }
