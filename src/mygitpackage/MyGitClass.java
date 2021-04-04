@@ -11,8 +11,10 @@ public class MyGitClass {
 		System.out.println("yasin beyin kodu");//GitHub.com'daki yeni kodum
 		System.out.println("12. satir BILGISAYARIM");
 		System.out.println("12. satir UZAK SUNUCU");//GitHub.com'daki yeni kodum
-		
+
 		System.out.println("15. satir BILGISAYARIM");
+
+		System.out.println("14. satir UZAK SUNUCU");//GitHub.com'daki yeni kodum
 	}
 
 }
